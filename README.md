@@ -1,2 +1,11 @@
-# HYPOTHESIS_TESTING_CASE_STUDY
-Conducted an amusement park field experiment to analyze visitor purchase behavior under four photo pricing strategies, assessing economic and charitable impacts using hypothesis testing and data visualization techniques.
+This case study involves a field experiment conducted at an amusement park, where visitors' purchasing behaviors under different pricing strategies for ride photographs were observed. The experiment aimed to evaluate the effectiveness of four pricing conditions: a flat rate ($12.95), a flat rate with a charity component (50% of revenue to charity), a name-your-own-price (NYOP) option, and an NYOP option with a charity component.
+
+The provided datasets contain information about photo sales, the number of riders, total merchandise revenues, and individual purchasing details under the NYOP conditions. The "Sales.csv" dataset tracks the aggregate data of photo purchases, ridership, and merchandise revenues across conditions. In contrast, the "NYOP.csv" dataset offers a granular view of each purchase, including the number of photos bought and the price paid by individual riders in the NYOP conditions.
+
+The analysis requires examining whether there is a significant difference in the proportion of purchases between the flat-rate and charity-augmented flat-rate conditions, as well as between the two NYOP conditions, using hypothesis testing without built-in t-test functions. Additionally, the case involves exploring the average unit price paid under the NYOP conditions, using box plots and statistical tests to assess differences.
+
+Economically, the study calculates the average daily profit for each pricing strategy, taking into account the cost of producing a photo. It further considers the societal impact by including the charitable contributions in the profit calculation, ranking the strategies by their societal profits and determining the additional value created by the charity-inclusive options over an entire year.
+
+The case study encompasses data analysis techniques including hypothesis testing, data visualization, and economic profit calculations, offering insights into consumer behavior and the implications of different pricing strategies from both a business and societal perspective.
+
+This summary serves as an introduction to the case study and its comprehensive analysis for documentation on GitHub, providing a clear overview of the experiment and analytical tasks involved.
