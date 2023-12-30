@@ -7,5 +7,3 @@ The analysis requires examining whether there is a significant difference in the
 Economically, the study calculates the average daily profit for each pricing strategy, taking into account the cost of producing a photo. It further considers the societal impact by including the charitable contributions in the profit calculation, ranking the strategies by their societal profits and determining the additional value created by the charity-inclusive options over an entire year.
 
 The case study encompasses data analysis techniques including hypothesis testing, data visualization, and economic profit calculations, offering insights into consumer behavior and the implications of different pricing strategies from both a business and societal perspective.
-
-This summary serves as an introduction to the case study and its comprehensive analysis for documentation on GitHub, providing a clear overview of the experiment and analytical tasks involved.
